@@ -1,0 +1,14 @@
+{
+    "appetizers": [
+        "Bruschetta",
+        "Stuffed Mushrooms"
+    ],
+    "main_courses": [
+        "Margherita Pizza",
+        "Spaghetti Carbonara"
+    ],
+    "desserts": [
+        "Tiramisu",
+        "Panna Cotta"
+    ]
+}
