@@ -1,14 +1,26 @@
 {
-    "appetizers": [
-        "Bruschetta",
-        "Stuffed Mushrooms"
+    "Entradas": [
+        {
+            "name": "Ensalada César",
+            "description": "Ensalada fresca con pollo a la parrilla.",
+            "price": "$10.00"
+        },
+        {
+            "name": "Sopa de Tomate",
+            "description": "Sopa cremosa de tomate con albahaca.",
+            "price": "$7.00"
+        }
     ],
-    "main_courses": [
-        "Margherita Pizza",
-        "Spaghetti Carbonara"
-    ],
-    "desserts": [
-        "Tiramisu",
-        "Panna Cotta"
+    "Platos Principales": [
+        {
+            "name": "Espagueti Carbonara",
+            "description": "Espagueti con salsa cremosa de huevo y queso.",
+            "price": "$15.00"
+        },
+        {
+            "name": "Pollo al Horno",
+            "description": "Pollo asado con hierbas y especias.",
+            "price": "$18.00"
+        }
     ]
 }
